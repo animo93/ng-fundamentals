@@ -88,7 +88,7 @@ export class EventService {
       date: '4/15/2037',
       time: '9:00 am',
       price: 950.00,
-      imageUrl: '/assets/images/ng-nl.png',
+      imageUrl: '/assets/ng-nl.png',
       location: {
         address: 'The NG-NL Convention Center & Scuba Shop',
         city: 'Amsterdam',
@@ -148,7 +148,7 @@ export class EventService {
       date: '5/4/2037',
       time: '9:00 am',
       price: 759.00,
-      imageUrl: '/assets/images/ng-conf.png',
+      imageUrl: '/assets/ng-conf.png',
       location: {
         address: 'The Palatial America Hotel',
         city: 'Salt Lake City',
@@ -230,7 +230,7 @@ export class EventService {
       date: '6/10/2037',
       time: '8:00 am',
       price: 800.00,
-      imageUrl: '/assets/images/basic-shield.png',
+      imageUrl: '/assets/basic-shield.png',
       location: {
         address: 'The UN Angular Center',
         city: 'New York',
@@ -279,7 +279,7 @@ export class EventService {
       date: '2/10/2037',
       time: '9:00 am',
       price: 400.00,
-      imageUrl: '/assets/images/ng-vegas.png',
+      imageUrl: '/assets/ng-vegas.png',
       location: {
         address: 'The Excalibur',
         city: 'Las Vegas',
